@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: image-processing-package-22
+Version: 0.0.1
+Summary: Criação de pacotes, desafio do bootcamp coagnizant.
+Home-page: https://github.com/rafaelsom/Cria-o-de-Pacotes
+Author: Rafael
+Author-email: rafaelsomr1@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+
+# package_name
+
+Description. 
+The package image_processing_package_22 is used to:
+	Processing:
+		-Histogram matching
+		-Structural similarity
+		-Resize image
+	Utils
+		-Read image
+		-Save image
+		-Plot image
+		-Plot result
+		-Plot histogram
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_package_22
+
+```bash
+pip install image_processing
+```
+
+## Author
+Rafael
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
